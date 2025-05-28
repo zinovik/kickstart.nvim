@@ -5,4 +5,8 @@
 
 ---@module 'lazy'
 ---@type LazySpec
-return {}
+return {
+  { 'wfxr/minimap.vim' },
+  { 'github/copilot.vim' },
+  { 'CopilotC-Nvim/CopilotChat.nvim' }
+}
